@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.esempio.miaapp",
+      "package_name": "com.example.supabase_social",
       "sha256_cert_fingerprints": [
         "1E:BD:28:1E:64:FD:7D:44:C4:B4:59:B2:A2:95:96:5A:7B:95:B5:0B:BA:F3:7B:A4:CB:C8:BF:1E:42:6A:52:FD"
       ]
